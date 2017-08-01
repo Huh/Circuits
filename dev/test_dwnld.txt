@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /MOTA</title>
+ </head>
+ <body>
+<pre>
+********************************************************************************
+
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+
+Downloading these data requires a NASA Earthdata Login username and password.
+To obtain a NASA Earthdata Login account, please visit
+<a href="https://urs.earthdata.nasa.gov/users/new">https://urs.earthdata.nasa.gov/users/new/</a>.
+
+For more information about the data you are downloading, including documentation
+and how to properly cite the data, please visit <a href="https://lpdaac.usgs.gov">https://lpdaac.usgs.gov/</a>.
+
+********************************************************************************
+</pre>
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[PARENTDIR]"> <a href="/">Parent Directory</a>                             -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD12C1.051/">MCD12C1.051/</a>            2013-06-27 10:51    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD12Q1.051/">MCD12Q1.051/</a>            2015-11-27 10:05    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD12Q2.005/">MCD12Q2.005/</a>            2016-05-16 09:23    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD15A2.005/">MCD15A2.005/</a>            2016-12-27 07:50    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD15A2H.006/">MCD15A2H.006/</a>           2016-12-27 04:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD15A3.005/">MCD15A3.005/</a>            2016-12-27 10:04    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD15A3H.006/">MCD15A3H.006/</a>           2016-12-27 04:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A1.005/">MCD43A1.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A1.006/">MCD43A1.006/</a>            2016-12-27 04:12    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A2.005/">MCD43A2.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A2.006/">MCD43A2.006/</a>            2016-12-27 04:12    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A3.005/">MCD43A3.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A3.006/">MCD43A3.006/</a>            2016-12-27 04:12    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A4.005/">MCD43A4.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43A4.006/">MCD43A4.006/</a>            2016-12-27 04:12    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43B1.005/">MCD43B1.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43B2.005/">MCD43B2.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43B3.005/">MCD43B3.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43B4.005/">MCD43B4.005/</a>            2016-12-27 00:38    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C1.005/">MCD43C1.005/</a>            2016-12-27 14:42    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C1.006/">MCD43C1.006/</a>            2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C2.005/">MCD43C2.005/</a>            2016-12-27 14:42    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C2.006/">MCD43C2.006/</a>            2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C3.005/">MCD43C3.005/</a>            2016-12-27 14:44    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C3.006/">MCD43C3.006/</a>            2016-12-27 09:19    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C4.005/">MCD43C4.005/</a>            2016-12-27 14:44    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43C4.006/">MCD43C4.006/</a>            2016-12-27 09:19    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D01.006/">MCD43D01.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D02.006/">MCD43D02.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D03.006/">MCD43D03.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D04.006/">MCD43D04.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D05.006/">MCD43D05.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D06.006/">MCD43D06.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D07.006/">MCD43D07.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D08.006/">MCD43D08.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D09.006/">MCD43D09.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D10.006/">MCD43D10.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D11.006/">MCD43D11.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D12.006/">MCD43D12.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D13.006/">MCD43D13.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D14.006/">MCD43D14.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D15.006/">MCD43D15.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D16.006/">MCD43D16.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D17.006/">MCD43D17.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D18.006/">MCD43D18.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D19.006/">MCD43D19.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D20.006/">MCD43D20.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D21.006/">MCD43D21.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D22.006/">MCD43D22.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D23.006/">MCD43D23.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D24.006/">MCD43D24.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D25.006/">MCD43D25.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D26.006/">MCD43D26.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D27.006/">MCD43D27.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D28.006/">MCD43D28.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D29.006/">MCD43D29.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D30.006/">MCD43D30.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D31.006/">MCD43D31.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D32.006/">MCD43D32.006/</a>           2016-12-27 09:08    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D33.006/">MCD43D33.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D34.006/">MCD43D34.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D35.006/">MCD43D35.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D36.006/">MCD43D36.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D37.006/">MCD43D37.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D38.006/">MCD43D38.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D39.006/">MCD43D39.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D40.006/">MCD43D40.006/</a>           2016-12-27 09:08    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D41.006/">MCD43D41.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D42.006/">MCD43D42.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D43.006/">MCD43D43.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D44.006/">MCD43D44.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D45.006/">MCD43D45.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D46.006/">MCD43D46.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D47.006/">MCD43D47.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D48.006/">MCD43D48.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D49.006/">MCD43D49.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D50.006/">MCD43D50.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D51.006/">MCD43D51.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D52.006/">MCD43D52.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D53.006/">MCD43D53.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D54.006/">MCD43D54.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D55.006/">MCD43D55.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D56.006/">MCD43D56.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D57.006/">MCD43D57.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D58.006/">MCD43D58.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D59.006/">MCD43D59.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D60.006/">MCD43D60.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D61.006/">MCD43D61.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D62.006/">MCD43D62.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D63.006/">MCD43D63.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D64.006/">MCD43D64.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D65.006/">MCD43D65.006/</a>           2016-12-27 09:11    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D66.006/">MCD43D66.006/</a>           2016-12-27 09:09    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D67.006/">MCD43D67.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD43D68.006/">MCD43D68.006/</a>           2016-12-27 09:10    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD45A1.005/">MCD45A1.005/</a>            2016-11-10 07:23    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="MCD45A1.051/">MCD45A1.051/</a>            2016-11-08 07:15    -   
+<hr></pre>
+</body></html>
