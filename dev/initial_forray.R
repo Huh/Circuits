@@ -1,5 +1,7 @@
     require(raster)
 
+    setwd("C:/Users/josh.nowak/Documents/GitHub/Circuits/dev")
+    
     CS_exe <- 'C:/"Program Files"/Circuitscape/cs_run.exe'
     tst <- 'C:/Program Files/Circuitscape/cs_run.exe'
 
@@ -33,16 +35,29 @@
         )
       )
     )
+    
+    cat(
+    "[circuitscape options]\n", 
+    file = "tmp.ini"
+    )
+    
+    cat(
+      "data_type = raster",
+      file = "tmp.ini",
+      append = T
+    )
 
     # Write it to your working directory
     writeLines(CS_ini,"myini.ini")
 
     # Make the CS run cmd
-    CS_run <- paste(tst, paste(getwd(),"myini.ini",sep="/")) # Make the cmd
+    CS_run <- paste(
+      Sys.which(tst), 
+      normalizePath(file.path(getwd(),"myini.ini"))
+    ) # Make the cmd
 
     # Run the command
     system(CS_run)
 
     # Import the effective resistance
     rdist <- as.dist(read.csv("CS_resistances.out",sep=" ",row.names=1,header=1))
-
